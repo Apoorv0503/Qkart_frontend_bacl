@@ -3,6 +3,8 @@
 
 **QKart** is a traditional brick-and-mortar supermarket chain with stores in over 30 cities throughout India. It is a **Flipkart-like** web platform with all the necessary functionalities.
 
+**Website URL:** https://apoorva-qkart-frontend.netlify.app/
+
 ## Note From Developer
 
 Welcome to **QKart’s frontend!** The QKart frontend is built using React.js and MaterialUI majorly. This Project has the **features** like:
